@@ -1,0 +1,3 @@
+[workspace]
+members = [ "zmq-broker", "zmq-publisher", "zmq-edge"]
+resolver = "2"
